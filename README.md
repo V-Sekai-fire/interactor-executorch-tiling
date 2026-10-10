@@ -15,4 +15,4 @@ just run
 
 ## Licence
 
-There is no licence file, and the licence is not stated.
+MIT. See [LICENSE](LICENSE).
